@@ -1,0 +1,28 @@
+{
+  "name": "8ballcors",
+  "version": "1.0.0",
+  "description": "cors server for 8ball",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/8BallTV/8ball-cors.git"
+  },
+  "keywords": [
+    "cors",
+    "8balltv",
+    "8ball"
+  ],
+  "author": "Bhavik Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/8BallTV/8ball-cors/issues"
+  },
+  "homepage": "https://github.com/8BallTV/8ball-cors#readme",
+  "dependencies": {
+    "cors-anywhere": "^0.4.4"
+  }
+}
